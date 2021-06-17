@@ -1,0 +1,252 @@
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\ApplicationInsights.config
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csc.exe
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csc.exe.config
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csc.rsp
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csi.exe
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csi.rsp
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.AppContext.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\vbc.exe
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\vbc.exe.config
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\vbc.rsp
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\REST_GestionClientes.dll.config
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\REST_GestionClientes.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\REST_GestionClientes.pdb
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.Web.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Newtonsoft.Json.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\NLog.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Net.Http.Formatting.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.WebHost.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.Web.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Newtonsoft.Json.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\NLog.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Net.Http.Formatting.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.WebHost.xml
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.csprojResolveAssemblyReference.cache
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.csproj.ResolveComReference.cache
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.dll
+C:\Users\Angel Morales\Documents\CANELLA\InterfazCanella\InterfazCanella-SIFCO\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.pdb
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.csproj.ResolveComReference.cache
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.pdb
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\ApplicationInsights.config
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csc.exe
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csc.exe.config
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csc.rsp
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csi.exe
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csi.rsp
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.AppContext.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\vbc.exe
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\vbc.exe.config
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\vbc.rsp
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\VBCSCompiler.exe
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\REST_GestionClientes.dll.config
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\REST_GestionClientes.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\REST_GestionClientes.pdb
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.Web.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Newtonsoft.Json.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\NLog.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Net.Http.Formatting.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.WebHost.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.Web.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Newtonsoft.Json.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\NLog.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Net.Http.Formatting.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\CANELLA COMERCIALIZADORA\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.WebHost.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\ApplicationInsights.config
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csc.exe
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csc.exe.config
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csc.rsp
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csi.exe
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csi.rsp
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.AppContext.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\vbc.exe
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\vbc.exe.config
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\vbc.rsp
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\VBCSCompiler.exe
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\REST_GestionClientes.dll.config
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\REST_GestionClientes.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\REST_GestionClientes.pdb
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.Web.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Newtonsoft.Json.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\NLog.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Net.Http.Formatting.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.WebHost.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.Web.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\Newtonsoft.Json.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\NLog.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Net.Http.Formatting.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.WebHost.xml
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.csproj.ResolveComReference.cache
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.dll
+C:\Users\inforacabrera\Documents\INFO RAFA\PROYECTOS\MISTER CREDIT\FUENTES  Interfacez\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.pdb
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\ApplicationInsights.config
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csc.exe
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csc.exe.config
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csc.rsp
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csi.exe
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\csi.rsp
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.AppContext.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\vbc.exe
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\vbc.exe.config
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\vbc.rsp
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\VBCSCompiler.exe
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\REST_GestionClientes.dll.config
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\REST_GestionClientes.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\REST_GestionClientes.pdb
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.Web.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Newtonsoft.Json.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\NLog.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Net.Http.Formatting.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.WebHost.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.Web.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\Newtonsoft.Json.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\NLog.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Net.Http.Formatting.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\bin\System.Web.Http.WebHost.xml
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.csprojAssemblyReference.cache
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.csproj.ResolveComReference.cache
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.csproj.CoreCompileInputs.cache
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.csproj.CopyComplete
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.dll
+C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\REST_GestionClientes\REST_GestionClientes\obj\Debug\REST_GestionClientes.pdb
