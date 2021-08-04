@@ -1098,6 +1098,12 @@ namespace REST_GestionClientes.Models
             pago.Series = serie;
             pago.DocCurrency = "GTQ";
 
+            // Cambio para agregar el número de boleta del banco al campo de la referencia 2 en el asiento contable - Alex García - 04/08/2021
+            // Obtiene el número de la boleta
+            foreach (MediosDePago objMediosPago in partida.detallePartida.mediosDePago)
+            {
+                pago.Reference2 = objMediosPago.numeroDocumento; 
+            }
 
             int total_pagos = pagosACapital.Count();
             int contador = 0;
@@ -1380,6 +1386,14 @@ namespace REST_GestionClientes.Models
             asiento.TaxDate = DateTime.ParseExact(partida.fechaContabilizacion, "yyyy-MM-dd", null);
             List<Rubros> creditos = new List<Rubros>();
             List<Rubros> debitos = new List<Rubros>();
+
+            // Cambio para agregar el número de boleta del banco al campo de la referencia 2 en el asiento contable - Alex García - 04/08/2021
+            // Obtiene el número de la boleta
+            foreach (MediosDePago objMediosPago in partida.detallePartida.mediosDePago)
+            {
+                asiento.Reference2 = objMediosPago.numeroDocumento;
+            }
+
             //separacion de rubros con monto en creditos y debitos
             foreach (Rubros r in partida.detallePartida.rubros)
             {
