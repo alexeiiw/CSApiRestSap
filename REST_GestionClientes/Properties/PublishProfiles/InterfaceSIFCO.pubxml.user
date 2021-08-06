@@ -6,7 +6,8 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\inetpub\wwwroot\IGT_Gestion_Clientes</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Users\infoagarcia\Documents\Canella\Proyectos\INTERFACE SAP-SIFCO\Publicado</_PublishTargetUrl>
+    <History>True|2021-08-06T00:03:36.7594586Z;True|2021-08-05T17:26:22.8451900-06:00;True|2021-08-05T16:16:25.7176008-06:00;True|2021-08-05T16:10:10.4836896-06:00;False|2021-08-05T16:06:41.7478927-06:00;False|2021-08-05T15:43:03.2389205-06:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="ApplicationInsights.config">
@@ -49,7 +50,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/18/2018 16:35:50</publishTime>
     </File>
     <File Include="bin/REST_GestionClientes.dll">
-      <publishTime>02/06/2020 10:25:55</publishTime>
+      <publishTime>08/05/2021 18:03:35</publishTime>
+    </File>
+    <File Include="bin/REST_GestionClientes.pdb">
+      <publishTime>08/05/2021 18:03:35</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>02/18/2018 16:34:31</publishTime>
@@ -154,7 +158,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/18/2018 16:36:18</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>02/06/2020 10:25:55</publishTime>
+      <publishTime>08/05/2021 16:10:09</publishTime>
     </File>
   </ItemGroup>
 </Project>

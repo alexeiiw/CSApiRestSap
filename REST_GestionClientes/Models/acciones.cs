@@ -1102,7 +1102,7 @@ namespace REST_GestionClientes.Models
             // Obtiene el número de la boleta
             foreach (MediosDePago objMediosPago in partida.detallePartida.mediosDePago)
             {
-                pago.Reference2 = objMediosPago.numeroDocumento; 
+                pago.Reference2 = objMediosPago.numeroDocumento.Trim(); 
             }
 
             int total_pagos = pagosACapital.Count();
@@ -1391,7 +1391,7 @@ namespace REST_GestionClientes.Models
             // Obtiene el número de la boleta
             foreach (MediosDePago objMediosPago in partida.detallePartida.mediosDePago)
             {
-                asiento.Reference2 = objMediosPago.numeroDocumento;
+                asiento.Reference2 = objMediosPago.numeroDocumento.Trim();
             }
 
             //separacion de rubros con monto en creditos y debitos
