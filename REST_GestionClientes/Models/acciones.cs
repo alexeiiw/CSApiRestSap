@@ -1102,7 +1102,8 @@ namespace REST_GestionClientes.Models
             // Obtiene el número de la boleta
             foreach (MediosDePago objMediosPago in partida.detallePartida.mediosDePago)
             {
-                string strBoleta = objMediosPago.numeroDocumento.Trim().Replace("\0", "").Substring(0,8);
+                string strBoleta = objMediosPago.numeroDocumento.Trim().Replace("\0", "");
+                if (strBoleta.Count() > 8 ) { strBoleta = objMediosPago.numeroDocumento.Trim().Replace("\0", "").Substring(0, 8); }
                 pago.Reference2 = strBoleta;
             }
 
@@ -1392,7 +1393,8 @@ namespace REST_GestionClientes.Models
             // Obtiene el número de la boleta
             foreach (MediosDePago objMediosPago in partida.detallePartida.mediosDePago)
             {
-                string strBoleta = objMediosPago.numeroDocumento.Trim().Replace("\0", "").Substring(0, 8);
+                string strBoleta = objMediosPago.numeroDocumento.Trim().Replace("\0", "");
+                if (strBoleta.Count() > 8) { strBoleta = objMediosPago.numeroDocumento.Trim().Replace("\0", "").Substring(0, 8); }
                 asiento.Reference2 = strBoleta;
             }
 
